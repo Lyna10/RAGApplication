@@ -145,9 +145,4 @@ This will start the Streamlit server and open the app in your browser.
 ## License
 This project is licensed under the MIT License.
 
-## Author
-#### Gustavo R. Santos<br>
-[Linkedin](https://www.linkedin.com/in/gurezende/)<br>
-[Website](https://gustavorsantos.me)<br>
-[Medium Blog](https://gustavorsantos.medium.com)<br>
 
